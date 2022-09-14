@@ -16,9 +16,24 @@ Being born in the Philippines with a greek name and raised in Australia, it does
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Get in touch:
+
+- [__LinkedIn__](https://www.linkedin.com/in/zeus-ronzan-b26313104/)
+- __email__: zeus.ronzan@gmail.com
+
 ## Projects
 
 [__Code-to-Memory__] (https://code-to-memory.herokuapp.com/), a flashcard centric app focused on helping aspiring software engineers keep their study materials in one place:
+
+![06-class-details-page](https://user-images.githubusercontent.com/100141010/190240985-4adbe60d-d75f-4fdc-bb72-cff17f3f9356.png)
+
+[__Legendhood__](), a stock trading simulator modelled after Robinhood:
+
+![RHdashboard](https://user-images.githubusercontent.com/100141010/190240868-261fc7bb-57ba-421c-9c98-ff399fbe1359.png)
+
+[__Street-Up__](), an urban inspired take on a communty based group/event organizer:
+
+![main splash page](https://user-images.githubusercontent.com/100141010/190240794-7c26aca7-f37e-43d7-8d10-34e5ada29357.png)
 
 
 <!--
