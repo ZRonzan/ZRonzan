@@ -23,7 +23,7 @@ Being born in the Philippines with a greek name and raised in Australia, it does
 
 ## Projects
 
-[__Code-to-Memory__] (https://code-to-memory.herokuapp.com/), a flashcard centric app focused on helping aspiring software engineers keep their study materials in one place:
+[__Code-to-Memory__](https://code-to-memory.herokuapp.com/), a flashcard centric app focused on helping aspiring software engineers keep their study materials in one place:
 
 ![06-class-details-page](https://user-images.githubusercontent.com/100141010/190240985-4adbe60d-d75f-4fdc-bb72-cff17f3f9356.png)
 
